@@ -1,6 +1,6 @@
 cask "easytier-pro" do
   version "0.0.1"
-  sha256 arm: "6cc85c812c6b9029adee2e35dd590afe19d5c19055a91e1f9bfcbedc25e1cb0f"
+  sha256 arm: "007a069e7a46aa7e715095d73c2273c2bd2b6875433fb1760d9e64383151ccc1"
 
   url "https://github.com/chaogeek/easytier-pro/releases/download/v#{version}/easytier-pro_#{version}_aarch64.dmg"
 
